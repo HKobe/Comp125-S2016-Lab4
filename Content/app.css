@@ -1,0 +1,19 @@
+/*custom css goes here
+author: Hassan Kobeissi
+Student #  -300847239
+wesbite: 
+Description: Custom CSS goes here
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.firstSentence {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 1.2em;
+}
